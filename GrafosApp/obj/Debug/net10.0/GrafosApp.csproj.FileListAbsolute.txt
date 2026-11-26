@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Lab07_Grafos\GrafosApp\bin\Debug\net10.0\GrafosApp.exe
+C:\Users\PC\Desktop\Lab07_Grafos\GrafosApp\bin\Debug\net10.0\GrafosApp.deps.json
+C:\Users\PC\Desktop\Lab07_Grafos\GrafosApp\bin\Debug\net10.0\GrafosApp.runtimeconfig.json
+C:\Users\PC\Desktop\Lab07_Grafos\GrafosApp\bin\Debug\net10.0\GrafosApp.dll
+C:\Users\PC\Desktop\Lab07_Grafos\GrafosApp\bin\Debug\net10.0\GrafosApp.pdb
+C:\Users\PC\Desktop\Lab07_Grafos\GrafosApp\obj\Debug\net10.0\GrafosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Lab07_Grafos\GrafosApp\obj\Debug\net10.0\GrafosApp.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Lab07_Grafos\GrafosApp\obj\Debug\net10.0\GrafosApp.AssemblyInfo.cs
+C:\Users\PC\Desktop\Lab07_Grafos\GrafosApp\obj\Debug\net10.0\GrafosApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Lab07_Grafos\GrafosApp\obj\Debug\net10.0\GrafosApp.sourcelink.json
+C:\Users\PC\Desktop\Lab07_Grafos\GrafosApp\obj\Debug\net10.0\GrafosApp.dll
+C:\Users\PC\Desktop\Lab07_Grafos\GrafosApp\obj\Debug\net10.0\refint\GrafosApp.dll
+C:\Users\PC\Desktop\Lab07_Grafos\GrafosApp\obj\Debug\net10.0\GrafosApp.pdb
+C:\Users\PC\Desktop\Lab07_Grafos\GrafosApp\obj\Debug\net10.0\GrafosApp.genruntimeconfig.cache
+C:\Users\PC\Desktop\Lab07_Grafos\GrafosApp\obj\Debug\net10.0\ref\GrafosApp.dll
